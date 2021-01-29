@@ -1,2 +1,2 @@
 # ROPEmporium
-Writeups for ROP Emporium
+Writeups for ROP Emporium by rai and APT-05
