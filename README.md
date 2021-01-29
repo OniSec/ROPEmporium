@@ -1,2 +1,2 @@
 # ROPEmporium
-Writeups for ROP Emporium by rai and APT-95
+OniSec's writeups for ROP Emporium
